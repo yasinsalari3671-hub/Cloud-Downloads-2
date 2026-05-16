@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6308",
+  "folder": "YouTube__watch_20260516230420_6f8878",
+  "base_name": "I_Tested_50_Setups_Only_These_3_POI_Work_Perfectly_RzM8ckjzTMo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/yasinsalari3671-hub/Cloud-Downloads-2/releases/tag/co-releases-v1-6308",
+  "files": [
+    {
+      "name": "I_Tested_50_Setups_Only_These_3_POI_Work_Perfectly_RzM8ckjzTMo_720p.mp4",
+      "url": "https://github.com/yasinsalari3671-hub/Cloud-Downloads-2/releases/download/co-releases-v1-6308/I_Tested_50_Setups_Only_These_3_POI_Work_Perfectly_RzM8ckjzTMo_720p.mp4",
+      "api_url": "https://api.github.com/repos/yasinsalari3671-hub/Cloud-Downloads-2/releases/assets/422112345",
+      "id": 422112345,
+      "size": 51761497,
+      "download_count": 0
+    }
+  ]
+}
